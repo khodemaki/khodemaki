@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-stack+tinkerer+%7C+HTML+%2B+CSS+%2B+JS+wizard;Python+%E2%80%A2+Cybersecurity+%E2%80%A2+AI+in+progress;Turning+coffee+and+curiosity+into+software" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=khodemaki&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/khodemaki?style=for-the-badge&logo=github&color=8957e5)
+<img src="https://komarev.com/ghpvc/?username=khodemaki&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/khodemaki?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
 
 </div>
 
@@ -17,21 +17,19 @@
 
 ## 👋 About Me
 
-```js
 <div align="center">
 
-![Role](https://img.shields.io/badge/ROLE-Computer%20Engineering%20Student%20%26%20Developer-8957e5?style=for-the-badge)
-
-![Learning](https://img.shields.io/badge/LEARNING-Python%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI-0e75b6?style=for-the-badge&logo=python&logoColor=white)
-
-![Fun fact](https://img.shields.io/badge/FUN%20FACT-Built%20a%20POS%20app%20for%20a%20real%20restaurant-e34f26?style=for-the-badge&logo=electron&logoColor=white)
-
-![Status](https://img.shields.io/badge/STATUS-Always%20compiling.%20Rarely%20panicking.-2ea043?style=for-the-badge)
-
-> *Build useful software. Break things safely. Learn everything.*
+<img src="https://img.shields.io/badge/ROLE-Computer%20Engineering%20Student%20%26%20Developer-8957e5?style=for-the-badge" alt="role" />
+<br/>
+<img src="https://img.shields.io/badge/LEARNING-Python%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI-0e75b6?style=for-the-badge&logo=python&logoColor=white" alt="learning" />
+<br/>
+<img src="https://img.shields.io/badge/FUN%20FACT-Built%20a%20POS%20app%20for%20a%20real%20restaurant-e34f26?style=for-the-badge" alt="fun fact" />
+<br/>
+<img src="https://img.shields.io/badge/STATUS-Always%20compiling.%20Rarely%20panicking.-2ea043?style=for-the-badge" alt="status" />
 
 </div>
-```
+
+<br/>
 
 - 🔭 Deep-diving into **Python**, **cybersecurity**, and **AI**
 - 🛠️ Hands-on with the web stack, from pixel-level CSS to application logic
@@ -42,25 +40,29 @@
 
 ## 🧰 Tech Arsenal
 
+<div align="center">
+
 **Core Stack**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
 **Leveling Up**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
 
 ---
 
@@ -79,6 +81,7 @@ A full **Windows desktop POS application** built for a real fast-food restaurant
 | **📦 Delivery** | Packaged as a proper Windows installer (NSIS) |
 
 **Highlights**
+
 - ⚡ Fast sales flow: category tabs, product cards, live cart with quantity controls
 - 🧾 Daily order log that resets automatically by Jalali date
 - ⚙️ Configurable settings: restaurant info, logo, tax, footer message
@@ -94,6 +97,8 @@ A full **Windows desktop POS application** built for a real fast-food restaurant
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=khodemaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodemaki&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=khodemaki&theme=tokyonight&hide_border=true" alt="streak" />
 
@@ -115,12 +120,12 @@ A full **Windows desktop POS application** built for a real fast-food restaurant
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@khodemaki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khodemaki)
-[![Email](https://img.shields.io/badge/Email-khodemaki@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khodemaki@gmail.com)
+<a href="https://t.me/khodemaki"><img src="https://img.shields.io/badge/Telegram-@khodemaki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:khodemaki@gmail.com"><img src="https://img.shields.io/badge/Email-khodemaki@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
-*"First, solve the problem. Then, write the code."*
+<i>"First, solve the problem. Then, write the code."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
 
