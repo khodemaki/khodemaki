@@ -18,14 +18,19 @@
 ## 👋 About Me
 
 ```js
-| | |
-|---|---|
-| 🎓 **Role** | Computer Engineering Student & Developer |
-| 🎯 **Mission** | Build useful software, break things safely, learn everything |
-| 📚 **Currently learning** | Python • Cybersecurity • Artificial Intelligence |
-| ⚡ **Superpowers** | Shipping real projects • Debugging at 3 AM • Learning absurdly fast |
-| 🍕 **Fun fact** | I've built software that real people actually use to run a real restaurant. |
-| 🔋 **Status** | Always compiling. Rarely panicking. |
+<div align="center">
+
+![Role](https://img.shields.io/badge/ROLE-Computer%20Engineering%20Student%20%26%20Developer-8957e5?style=for-the-badge)
+
+![Learning](https://img.shields.io/badge/LEARNING-Python%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20AI-0e75b6?style=for-the-badge&logo=python&logoColor=white)
+
+![Fun fact](https://img.shields.io/badge/FUN%20FACT-Built%20a%20POS%20app%20for%20a%20real%20restaurant-e34f26?style=for-the-badge&logo=electron&logoColor=white)
+
+![Status](https://img.shields.io/badge/STATUS-Always%20compiling.%20Rarely%20panicking.-2ea043?style=for-the-badge)
+
+> *Build useful software. Break things safely. Learn everything.*
+
+</div>
 ```
 
 - 🔭 Deep-diving into **Python**, **cybersecurity**, and **AI**
