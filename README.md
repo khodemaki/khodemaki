@@ -18,14 +18,14 @@
 ## 👋 About Me
 
 ```js
-const khodemaki = {
-  role: "Computer Engineering Student & Developer",
-  mission: "Build useful software, break things safely, learn everything",
-  currentlyLearning: ["Python", "Cybersecurity", "Artificial Intelligence"],
-  superpowers: ["Shipping real projects", "Debugging at 3 AM", "Learning absurdly fast"],
-  funFact: "I've built software that real people actually use to run a real restaurant.",
-  status: "Always compiling. Rarely panicking."
-};
+| | |
+|---|---|
+| 🎓 **Role** | Computer Engineering Student & Developer |
+| 🎯 **Mission** | Build useful software, break things safely, learn everything |
+| 📚 **Currently learning** | Python • Cybersecurity • Artificial Intelligence |
+| ⚡ **Superpowers** | Shipping real projects • Debugging at 3 AM • Learning absurdly fast |
+| 🍕 **Fun fact** | I've built software that real people actually use to run a real restaurant. |
+| 🔋 **Status** | Always compiling. Rarely panicking. |
 ```
 
 - 🔭 Deep-diving into **Python**, **cybersecurity**, and **AI**
